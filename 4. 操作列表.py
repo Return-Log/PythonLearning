@@ -51,4 +51,3 @@ for dimension in dimensions:  # 遍历元组
 dimensions = (400, 100)  # 修改元组变量
 print(dimensions)
 
-
