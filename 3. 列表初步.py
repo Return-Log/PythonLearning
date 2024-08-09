@@ -1,7 +1,6 @@
 """
 coding:utf-8
 列表练习
-Ctrl + / 进行注释或解除注释
 """
 
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']  # 定义列表
